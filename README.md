@@ -50,7 +50,7 @@ Suggests key skills for each role based on aggregated data.
   - Pandas
   - Seaborn
   - Matplotlib
-- Jupyter Notebook (optional)
+- Jupyter Notebook
 
 
 
